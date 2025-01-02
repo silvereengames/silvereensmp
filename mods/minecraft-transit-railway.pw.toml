@@ -1,0 +1,13 @@
+name = "Minecraft Transit Railway (Automated trains, planes, and more!)"
+filename = "MTR-forge-4.0.0-beta.13+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "748e2f6c02187710173ef40ccfeca37a37948e50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6001110
+project-id = 266707
