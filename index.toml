@@ -5,18 +5,6 @@ file = "README.md"
 hash = "b953f4b53ce77e351374edc36cd950af87d17b2b941ce8dab6a88d1169795048"
 
 [[files]]
-file = "customcredits/credits.json"
-hash = "ec6cc4369972c4467dd80618c33699761dc2be94b38b729eee389254d2916c37"
-
-[[files]]
-file = "customcredits/poem.txt"
-hash = "6b97bb6f2ed54ad112d5f9326561984acd59fb6b77d041ca19f3d1c6c7841e16"
-
-[[files]]
-file = "customcredits/postcredits.txt"
-hash = "7263145a94588055a9f8d2c8b72d418bbf345f766cb51fa440195f6f821a11aa"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "aedd365bbf7664b6c124c1c4f78ff58b5e84898a38acce628dc5ea6b962387f1"
 metafile = true
