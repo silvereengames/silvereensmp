@@ -23,6 +23,11 @@ hash = "f9c964c908441441f449f4ee1a711d705f88655b8660fc528e90813e025130e1"
 metafile = true
 
 [[files]]
+file = "mods/custom-credits.pw.toml"
+hash = "7c31d2e33f276f24b6d3acda14fc122074a132cd0dfe36148b0f92f4a692e2ad"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "f0654c4add95f5ee406e4816ac0b761ee7656a5c8adbecbd65227a43fcf7f1b7"
 metafile = true
