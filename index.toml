@@ -1,46 +1,62 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "b953f4b53ce77e351374edc36cd950af87d17b2b941ce8dab6a88d1169795048"
+
+[[files]]
+file = "customcredits/credits.json"
+hash = "ec6cc4369972c4467dd80618c33699761dc2be94b38b729eee389254d2916c37"
+
+[[files]]
+file = "customcredits/poem.txt"
+hash = "6b97bb6f2ed54ad112d5f9326561984acd59fb6b77d041ca19f3d1c6c7841e16"
+
+[[files]]
+file = "customcredits/postcredits.txt"
+hash = "7263145a94588055a9f8d2c8b72d418bbf345f766cb51fa440195f6f821a11aa"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "3bea0442d74ad9116aa556afd0b84b54ecfd9504af3dabd914c829728082a34c"
+hash = "aedd365bbf7664b6c124c1c4f78ff58b5e84898a38acce628dc5ea6b962387f1"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7ee5b611e896a052a9a8a43fd9ba7b369362e80d6dea90d83227dae1ef94548a"
+hash = "f9c964c908441441f449f4ee1a711d705f88655b8660fc528e90813e025130e1"
 metafile = true
 
 [[files]]
 file = "mods/custom-credits.pw.toml"
-hash = "7c31d2e33f276f24b6d3acda14fc122074a132cd0dfe36148b0f92f4a692e2ad"
+hash = "ad710079bac5c9feacb2c948fa729dcf3ec9be49e4f473f7fb39a8b78e690216"
 metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
-hash = "5638286006ed92353ffaaac8a2a01a1c47a2965bf3a3091a786a147248f19fb3"
+hash = "f0654c4add95f5ee406e4816ac0b761ee7656a5c8adbecbd65227a43fcf7f1b7"
 metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "879813604dd833f793d6d362c6b8a13ce35bf41da13d921b1e4e6c67813ceace"
+hash = "ac5fac2647a618aa987f55683736c475c1447565f1ab1b85ebd1d373967cc6fa"
 metafile = true
 
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
-hash = "c0405f2f156703f6c5a181c18e96dfdbad8760c04ff3be8c088853c7b14572df"
+hash = "9054e0730455b790daef6ca8b5875b26f5024234b5d18f646c8accafb1c2174b"
 metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "9c534f30553400b1fcebcc2dbff8c6e5474ce3cadc447bf9e82c8b15585d65a7"
+hash = "8d984b305e78f819e9d954bb2bccdc1199ae616d98e631988def4c4c9a3bbe50"
 metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "84b36dadde4952253164fa847967d7a44e7e50f54281ce72ede9860b367637ea"
+hash = "1425b72cff1a2b0a74bd3d46e792ce36ab7fbf97ecb358bdcda98120d8c09250"
 metafile = true
 
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
-hash = "4079afa2f4db637d3ad751cef19008cc8db9d2ed9c4f2a2b5d6b99f26b8f1c2a"
+hash = "3d27a669b2ee522fdf001d363d06e1e3da2b1679067bc2e7468e4c97abf4b435"
 metafile = true
