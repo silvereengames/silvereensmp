@@ -63,5 +63,10 @@ hash = "3d27a669b2ee522fdf001d363d06e1e3da2b1679067bc2e7468e4c97abf4b435"
 metafile = true
 
 [[files]]
+file = "mods/watchdog-anti-cheat.pw.toml"
+hash = "4a68a4b1251d851e9dba215c2a0cfec7c76f6ba6c83dc48d826a09a3c88d6a4c"
+metafile = true
+
+[[files]]
 file = "test.html"
 hash = "31999bda4b1b40287a3a30a55d7ad9faf3931a2ff35eec7cac71d42e29dae9af"
