@@ -23,6 +23,11 @@ hash = "aedd365bbf7664b6c124c1c4f78ff58b5e84898a38acce628dc5ea6b962387f1"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "c6545c6b2f4ccafc9d611b4ee438623a2ccf4f830674eed92ad6fed608cbf219"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "f9c964c908441441f449f4ee1a711d705f88655b8660fc528e90813e025130e1"
 metafile = true
@@ -35,6 +40,11 @@ metafile = true
 [[files]]
 file = "mods/custom-credits.pw.toml"
 hash = "7c31d2e33f276f24b6d3acda14fc122074a132cd0dfe36148b0f92f4a692e2ad"
+metafile = true
+
+[[files]]
+file = "mods/engineers-decor.pw.toml"
+hash = "86078f7819e53162c8624dc356663198d98c2829b689b4ae39dc52217824a027"
 metafile = true
 
 [[files]]
