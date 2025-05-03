@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customcredits/credits.json"
-hash = "dda62d08ca10e7f9bfaad086c60e9f427b5a04801b3ae399454dc8828fe2355a"
+hash = "bf5e943fc9565c30ed2f0b39dcd9afc923e550904badfa9a3c59859e93eb3b26"
 
 [[files]]
 file = "config/customcredits/poem.txt"
@@ -40,6 +40,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "3b323331e2ebcd03843ee1a7e783290025750f67091c22e717bb29248dea61f6"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "0fd10c12dafdf5bc68631af61cbf32e5153be1fde4a98d46840b935b6a2e6e3b"
 metafile = true
 
 [[files]]
@@ -98,8 +103,23 @@ hash = "c36bbd5d4f0536bc164de6d07f52df27625099b3b69057640a76efa25cab5083"
 metafile = true
 
 [[files]]
+file = "mods/simple-planes.pw.toml"
+hash = "f874befe48f7ca49328f79ec108913b2b82a1ece2bc260a62c1335233412908b"
+metafile = true
+
+[[files]]
 file = "mods/watchdog-anti-cheat.pw.toml"
 hash = "4a68a4b1251d851e9dba215c2a0cfec7c76f6ba6c83dc48d826a09a3c88d6a4c"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "ea5b575fa62d3e86b6c3d1b80afe784c67194114d053d7891236955e4b6a1883"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "3c8df135754eec90827256c97baae5d5ea82c7945d044125664d6846f2fe1c94"
 metafile = true
 
 [[files]]
