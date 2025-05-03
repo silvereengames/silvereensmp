@@ -38,6 +38,11 @@ hash = "f1a5fb7ab8eb09fa19c4b8ffc71d0ac6a5c1e4440522ef3170fd029fbd8b4a87"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "3b323331e2ebcd03843ee1a7e783290025750f67091c22e717bb29248dea61f6"
+metafile = true
+
+[[files]]
 file = "mods/custom-credits.pw.toml"
 hash = "7c31d2e33f276f24b6d3acda14fc122074a132cd0dfe36148b0f92f4a692e2ad"
 metafile = true
