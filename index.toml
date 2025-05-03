@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customcredits/credits.json"
-hash = "f616b3d2b672d43a71fc42499a5c0a72d079ddfeb5ced573f83f95aa8e60dcfb"
+hash = "dda62d08ca10e7f9bfaad086c60e9f427b5a04801b3ae399454dc8828fe2355a"
 
 [[files]]
 file = "config/customcredits/poem.txt"
