@@ -78,6 +78,11 @@ hash = "9054e0730455b790daef6ca8b5875b26f5024234b5d18f646c8accafb1c2174b"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "b1b9201e8b1a99248a6e1f4171504dcad4cf207d6e98e79f6f372e835b92db42"
+metafile = true
+
+[[files]]
 file = "mods/lightmans-currency.pw.toml"
 hash = "8d984b305e78f819e9d954bb2bccdc1199ae616d98e631988def4c4c9a3bbe50"
 metafile = true
@@ -103,8 +108,8 @@ hash = "c36bbd5d4f0536bc164de6d07f52df27625099b3b69057640a76efa25cab5083"
 metafile = true
 
 [[files]]
-file = "mods/simple-planes.pw.toml"
-hash = "f874befe48f7ca49328f79ec108913b2b82a1ece2bc260a62c1335233412908b"
+file = "mods/video-player.pw.toml"
+hash = "122bbe8a001a328a0cac0d9a96261c2226f2e2b9e3e8f3a0d6dd76489697a322"
 metafile = true
 
 [[files]]
