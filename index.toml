@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customcredits/credits.json"
-hash = "bf5e943fc9565c30ed2f0b39dcd9afc923e550904badfa9a3c59859e93eb3b26"
+hash = "73ace0ceb0e4d31cd3319484d9f81403bd9389213ce0ac26758708e25b48239b"
 
 [[files]]
 file = "config/customcredits/poem.txt"
@@ -105,11 +105,6 @@ metafile = true
 [[files]]
 file = "mods/security-craft.pw.toml"
 hash = "c36bbd5d4f0536bc164de6d07f52df27625099b3b69057640a76efa25cab5083"
-metafile = true
-
-[[files]]
-file = "mods/video-player.pw.toml"
-hash = "122bbe8a001a328a0cac0d9a96261c2226f2e2b9e3e8f3a0d6dd76489697a322"
 metafile = true
 
 [[files]]
