@@ -13,6 +13,126 @@ file = "config/customcredits/postcredits.txt"
 hash = "c972396cebdf1f6b65b262dfc20d766bafa7b32ffcee021ddbaf3ece575f45c8"
 
 [[files]]
+file = "config/fancymenu/assets/2025-01-06_23.34.06.png"
+hash = "53312a15f0be97c7f406ec3d42f0c0381c0bbdb4089f950422da4e2d8e9f0750"
+
+[[files]]
+file = "config/fancymenu/assets/blurred.png"
+hash = "ecf0b6e6ba1e814d05f7b914776b922c654b92b7909f3ade1ed8fc7ab4ea1c63"
+
+[[files]]
+file = "config/fancymenu/assets/button.png"
+hash = "6e715fc9a8fb417f85e931a57bd49ffc8b8634751192d8aea861296bc2f836bf"
+
+[[files]]
+file = "config/fancymenu/assets/buttonfilled.png"
+hash = "b4dcd7d91524dae5c11b5adda2dfe6391b0a3a04022bb71c60f6a517585f6dd3"
+
+[[files]]
+file = "config/fancymenu/assets/cursor.png"
+hash = "927fe2712830892592ed1c14eabb44046ef6f3210f564d68a0c9b503d0ad38fd"
+
+[[files]]
+file = "config/fancymenu/assets/ssmp3.png"
+hash = "047b2d5c86f6dd146678a530f2f63074db16249f6e42d7cdfe1cf80bbc95c923"
+
+[[files]]
+file = "config/fancymenu/assets/ssmpbg.png"
+hash = "4330f4acdc33c6568d00be3d59d7f5f196905dd9af210542dc9183487913f01e"
+
+[[files]]
+file = "config/fancymenu/assets/ssmpbg1.png"
+hash = "479d9596a0edd20a4a275fba0d4ae6ee214d0c6710906e2b1b33b3e5f962ee23"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "bb825ed8061b9b2476c337be9325a416eeee4dabab1544af42ee3e2ae75e8f9a"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "4d68a64e53d7d81a104459e01fc8a1bac8c535a2b24c661af5d71ec7fdde1efb"
+
+[[files]]
+file = "config/fancymenu/customization/connect_screen_layout.txt"
+hash = "e8e5dd9df1bc5eb41f93865b2d7b3ee38df889e4f1a67e5dcae246a079907ebf"
+
+[[files]]
+file = "config/fancymenu/customization/credits_and_attribution_screen_layout.txt"
+hash = "bba80bb793e7fe288f5432e12c00e22fbefb1c5aad977af097a0dc05b28c2b3d"
+
+[[files]]
+file = "config/fancymenu/customization/disconnected_screen_layout.txt"
+hash = "4476ea1598893998989a1624d68ca10b96cac2db90dd4a030acc1524cab23b30"
+
+[[files]]
+file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+hash = "7dd19ed199c5088fce5d5c54b873d9f92f6c22522703e9a12216f8cfa0f6fb2f"
+
+[[files]]
+file = "config/fancymenu/customization/net.minecraftforge.client.gui.modlistscreen_layout.txt"
+hash = "4878c349e478fd12d10724b9408c2a6faad01595595214e6b7272ecd01e74ee9"
+
+[[files]]
+file = "config/fancymenu/customization/online_options_screen_layout.txt"
+hash = "99d2fec48f856145e5a7db3a90558c7faaaca0b470cf8d8ba275a39b31db7568"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_layout.txt"
+hash = "77aeaeec1ca6436c8abf4a249312525e5a10eaafdb9e4fb8cfb227238d0a56b0"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "9898689a4f379f84e5cca7c0d4bb3c45f50da8df28614b408bc10a84403514f7"
+
+[[files]]
+file = "config/fancymenu/customization/skin_customization_screen_layout.txt"
+hash = "143e836ea68d04a360b74e53a8927a8fbc3a8fe8d4e44afa58214a9bc0e7b3ce"
+
+[[files]]
+file = "config/fancymenu/customization/sound_options_screen_layout.txt"
+hash = "52f79331fd61e197636a23e63d65b89667c8ecbb773ffad11bf1924edb492b9c"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "3a5533ac385054dfe2aa26892a1f86ef600a11b35ae1b4d0c24cf162f9a3873c"
+
+[[files]]
+file = "config/fancymenu/customization/universal_layout.txt"
+hash = "01d04d0dd602f911c66498de77c768c61c22511b805be564699df60569c1720d"
+
+[[files]]
+file = "config/fancymenu/dragger_metas.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "3107be76ea4f10760f3b86d38f30179be75fa6ed40d0c9953bb0762518e01966"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "mods/additional-guns.pw.toml"
 hash = "34166c2da1b033625306c1a4e262a0bd2211479beaabdc657bd8812391e5325c"
 metafile = true
@@ -58,6 +178,11 @@ hash = "86078f7819e53162c8624dc356663198d98c2829b689b4ae39dc52217824a027"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "2d13c97595625bc543d9dedaacbd145a745a0e0dda1f7b89950df73fbded8fac"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "5da81758b1fee2158f7245ca9826f6cd415664095fab2091e54df2c64924f067"
 metafile = true
@@ -83,8 +208,18 @@ hash = "b1b9201e8b1a99248a6e1f4171504dcad4cf207d6e98e79f6f372e835b92db42"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "56b130b6b7462bcff9085d43e7d53a1d5c5f0ee1744f63c4faee093538bc3825"
+metafile = true
+
+[[files]]
 file = "mods/lightmans-currency.pw.toml"
 hash = "8d984b305e78f819e9d954bb2bccdc1199ae616d98e631988def4c4c9a3bbe50"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "313e8d86888699c1b31c8440938b7512171ad7f123f0ef4689878f933eff188e"
 metafile = true
 
 [[files]]
