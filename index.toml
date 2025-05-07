@@ -143,6 +143,11 @@ hash = "aedd365bbf7664b6c124c1c4f78ff58b5e84898a38acce628dc5ea6b962387f1"
 metafile = true
 
 [[files]]
+file = "mods/better-weather-revived.pw.toml"
+hash = "cfd3a4b0cb29a2ab34090d35df365f6054cfe013d6a9519aa9ed9f3cd48c5828"
+metafile = true
+
+[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "c6545c6b2f4ccafc9d611b4ee438623a2ccf4f830674eed92ad6fed608cbf219"
 metafile = true

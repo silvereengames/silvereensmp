@@ -1,0 +1,13 @@
+name = "Better Weather Revived"
+filename = "betterweather-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56242dfbf7076b97c890ea61d2896243ff37ea29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4226120
+project-id = 746210
