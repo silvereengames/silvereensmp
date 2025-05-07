@@ -203,11 +203,6 @@ hash = "9054e0730455b790daef6ca8b5875b26f5024234b5d18f646c8accafb1c2174b"
 metafile = true
 
 [[files]]
-file = "mods/immersive-aircraft.pw.toml"
-hash = "b1b9201e8b1a99248a6e1f4171504dcad4cf207d6e98e79f6f372e835b92db42"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "56b130b6b7462bcff9085d43e7d53a1d5c5f0ee1744f63c4faee093538bc3825"
 metafile = true
@@ -240,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/security-craft.pw.toml"
 hash = "c36bbd5d4f0536bc164de6d07f52df27625099b3b69057640a76efa25cab5083"
+metafile = true
+
+[[files]]
+file = "mods/simple-planes.pw.toml"
+hash = "f874befe48f7ca49328f79ec108913b2b82a1ece2bc260a62c1335233412908b"
 metafile = true
 
 [[files]]
