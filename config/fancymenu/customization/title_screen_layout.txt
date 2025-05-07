@@ -302,7 +302,7 @@ element {
 
 element {
   interactable = true
-  source = # Patch Notes%n%Welcome to SilvereenSMP! I'm so glad you're here. 
+  source = # Patch Notes%n%Welcome to SilvereenSMP! I'm so glad you're here.%n%Of note: If you get any errors while attempting to join that the authentication servers are not working or your mussing public keys, close the game, reset your computer's Wi-Fi, and re-launch.
   source_mode = direct
   shadow = true
   scale = 0.5
