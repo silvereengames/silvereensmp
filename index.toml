@@ -133,6 +133,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/securitycraft-client.toml"
+hash = "63c492fe08eec017a3e732bce75ad79dbb5813f496551d1b8a5188fe797c4e47"
+
+[[files]]
 file = "mods/additional-guns.pw.toml"
 hash = "34166c2da1b033625306c1a4e262a0bd2211479beaabdc657bd8812391e5325c"
 metafile = true
