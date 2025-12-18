@@ -6,11 +6,6 @@ hash = "8fe9131affc3479f265383362d45dc8616f7733c2543e602faa4cdaddfd90d2f"
 metafile = true
 
 [[files]]
-file = "mods/custom-credits.pw.toml"
-hash = "29058436be8f3ae12ad8ab3bf9f35d3eca994bce20357234fe94d7db99fc2f00"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "9afe3bdc73747e9ee220a5a9ae352342134543585be7ebfdae2781232a348359"
 metafile = true
