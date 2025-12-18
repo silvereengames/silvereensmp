@@ -1,266 +1,40 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/customcredits/credits.json"
-hash = "73ace0ceb0e4d31cd3319484d9f81403bd9389213ce0ac26758708e25b48239b"
+file = "README.md"
+hash = "40b410bbdd5f08f8e4ef2566409a96b7fab92589504463e334456e2e1b035aef"
 
 [[files]]
-file = "config/customcredits/poem.txt"
-hash = "e4f458b65173f6dbfa751bddea1142a63863dced2127f6445aa11d3100a60420"
-
-[[files]]
-file = "config/customcredits/postcredits.txt"
-hash = "c972396cebdf1f6b65b262dfc20d766bafa7b32ffcee021ddbaf3ece575f45c8"
-
-[[files]]
-file = "config/fancymenu/assets/2025-01-06_23.34.06.png"
-hash = "53312a15f0be97c7f406ec3d42f0c0381c0bbdb4089f950422da4e2d8e9f0750"
-
-[[files]]
-file = "config/fancymenu/assets/blurred.png"
-hash = "ecf0b6e6ba1e814d05f7b914776b922c654b92b7909f3ade1ed8fc7ab4ea1c63"
-
-[[files]]
-file = "config/fancymenu/assets/button.png"
-hash = "6e715fc9a8fb417f85e931a57bd49ffc8b8634751192d8aea861296bc2f836bf"
-
-[[files]]
-file = "config/fancymenu/assets/buttonfilled.png"
-hash = "b4dcd7d91524dae5c11b5adda2dfe6391b0a3a04022bb71c60f6a517585f6dd3"
-
-[[files]]
-file = "config/fancymenu/assets/cursor.png"
-hash = "927fe2712830892592ed1c14eabb44046ef6f3210f564d68a0c9b503d0ad38fd"
-
-[[files]]
-file = "config/fancymenu/assets/ssmp3.png"
-hash = "047b2d5c86f6dd146678a530f2f63074db16249f6e42d7cdfe1cf80bbc95c923"
-
-[[files]]
-file = "config/fancymenu/assets/ssmpbg.png"
-hash = "4330f4acdc33c6568d00be3d59d7f5f196905dd9af210542dc9183487913f01e"
-
-[[files]]
-file = "config/fancymenu/assets/ssmpbg1.png"
-hash = "479d9596a0edd20a4a275fba0d4ae6ee214d0c6710906e2b1b33b3e5f962ee23"
-
-[[files]]
-file = "config/fancymenu/audio_element_controller_metas.json"
-hash = "bb825ed8061b9b2476c337be9325a416eeee4dabab1544af42ee3e2ae75e8f9a"
-
-[[files]]
-file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "4d68a64e53d7d81a104459e01fc8a1bac8c535a2b24c661af5d71ec7fdde1efb"
-
-[[files]]
-file = "config/fancymenu/customization/connect_screen_layout.txt"
-hash = "e8e5dd9df1bc5eb41f93865b2d7b3ee38df889e4f1a67e5dcae246a079907ebf"
-
-[[files]]
-file = "config/fancymenu/customization/credits_and_attribution_screen_layout.txt"
-hash = "bba80bb793e7fe288f5432e12c00e22fbefb1c5aad977af097a0dc05b28c2b3d"
-
-[[files]]
-file = "config/fancymenu/customization/disconnected_screen_layout.txt"
-hash = "4476ea1598893998989a1624d68ca10b96cac2db90dd4a030acc1524cab23b30"
-
-[[files]]
-file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
-hash = "7dd19ed199c5088fce5d5c54b873d9f92f6c22522703e9a12216f8cfa0f6fb2f"
-
-[[files]]
-file = "config/fancymenu/customization/net.minecraftforge.client.gui.modlistscreen_layout.txt"
-hash = "4878c349e478fd12d10724b9408c2a6faad01595595214e6b7272ecd01e74ee9"
-
-[[files]]
-file = "config/fancymenu/customization/online_options_screen_layout.txt"
-hash = "99d2fec48f856145e5a7db3a90558c7faaaca0b470cf8d8ba275a39b31db7568"
-
-[[files]]
-file = "config/fancymenu/customization/options_screen_layout.txt"
-hash = "77aeaeec1ca6436c8abf4a249312525e5a10eaafdb9e4fb8cfb227238d0a56b0"
-
-[[files]]
-file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "9898689a4f379f84e5cca7c0d4bb3c45f50da8df28614b408bc10a84403514f7"
-
-[[files]]
-file = "config/fancymenu/customization/skin_customization_screen_layout.txt"
-hash = "143e836ea68d04a360b74e53a8927a8fbc3a8fe8d4e44afa58214a9bc0e7b3ce"
-
-[[files]]
-file = "config/fancymenu/customization/sound_options_screen_layout.txt"
-hash = "52f79331fd61e197636a23e63d65b89667c8ecbb773ffad11bf1924edb492b9c"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "8a2a619884372c75806cb3cb49de787a8191b7fd75f6a66ebc60a87602944fe0"
-
-[[files]]
-file = "config/fancymenu/customization/universal_layout.txt"
-hash = "01d04d0dd602f911c66498de77c768c61c22511b805be564699df60569c1720d"
-
-[[files]]
-file = "config/fancymenu/dragger_metas.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
-
-[[files]]
-file = "config/fancymenu/legacy_checklist.txt"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "3107be76ea4f10760f3b86d38f30179be75fa6ed40d0c9953bb0762518e01966"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
-
-[[files]]
-file = "config/securitycraft-client.toml"
-hash = "63c492fe08eec017a3e732bce75ad79dbb5813f496551d1b8a5188fe797c4e47"
-
-[[files]]
-file = "mods/additional-guns.pw.toml"
-hash = "34166c2da1b033625306c1a4e262a0bd2211479beaabdc657bd8812391e5325c"
+file = "mods/claim-chunk.pw.toml"
+hash = "57538a39a0cc70a6633fa697bd5ea67e9a925e7928883d87084cc5dbf68f1922"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "aedd365bbf7664b6c124c1c4f78ff58b5e84898a38acce628dc5ea6b962387f1"
-metafile = true
-
-[[files]]
-file = "mods/chisels-bits.pw.toml"
-hash = "c6545c6b2f4ccafc9d611b4ee438623a2ccf4f830674eed92ad6fed608cbf219"
-metafile = true
-
-[[files]]
-file = "mods/collective.pw.toml"
-hash = "f9c964c908441441f449f4ee1a711d705f88655b8660fc528e90813e025130e1"
-metafile = true
-
-[[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "f1a5fb7ab8eb09fa19c4b8ffc71d0ac6a5c1e4440522ef3170fd029fbd8b4a87"
-metafile = true
-
-[[files]]
-file = "mods/create.pw.toml"
-hash = "3b323331e2ebcd03843ee1a7e783290025750f67091c22e717bb29248dea61f6"
-metafile = true
-
-[[files]]
-file = "mods/creativecore.pw.toml"
-hash = "0fd10c12dafdf5bc68631af61cbf32e5153be1fde4a98d46840b935b6a2e6e3b"
-metafile = true
-
-[[files]]
-file = "mods/custom-credits.pw.toml"
-hash = "7c31d2e33f276f24b6d3acda14fc122074a132cd0dfe36148b0f92f4a692e2ad"
-metafile = true
-
-[[files]]
-file = "mods/engineers-decor.pw.toml"
-hash = "86078f7819e53162c8624dc356663198d98c2829b689b4ae39dc52217824a027"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "2d13c97595625bc543d9dedaacbd145a745a0e0dda1f7b89950df73fbded8fac"
-metafile = true
-
-[[files]]
-file = "mods/framework.pw.toml"
-hash = "5da81758b1fee2158f7245ca9826f6cd415664095fab2091e54df2c64924f067"
-metafile = true
-
-[[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "f0654c4add95f5ee406e4816ac0b761ee7656a5c8adbecbd65227a43fcf7f1b7"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "ac5fac2647a618aa987f55683736c475c1447565f1ab1b85ebd1d373967cc6fa"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "9054e0730455b790daef6ca8b5875b26f5024234b5d18f646c8accafb1c2174b"
-metafile = true
-
-[[files]]
-file = "mods/konkrete.pw.toml"
-hash = "56b130b6b7462bcff9085d43e7d53a1d5c5f0ee1744f63c4faee093538bc3825"
+file = "mods/geckolib.pw.toml"
+hash = "9dd464164f06671cd241541f28892f0a13a4c6cf5643d4d4165e3c5fb3845b35"
 metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "8d984b305e78f819e9d954bb2bccdc1199ae616d98e631988def4c4c9a3bbe50"
-metafile = true
-
-[[files]]
-file = "mods/melody.pw.toml"
-hash = "313e8d86888699c1b31c8440938b7512171ad7f123f0ef4689878f933eff188e"
+hash = "d2b661766f8a39e1bc56a1a83ea69032972a9742f3a987aa2374b306f6ee8a32"
 metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "1425b72cff1a2b0a74bd3d46e792ce36ab7fbf97ecb358bdcda98120d8c09250"
-metafile = true
-
-[[files]]
-file = "mods/mrcrayfish-furniture-mod.pw.toml"
-hash = "3d27a669b2ee522fdf001d363d06e1e3da2b1679067bc2e7468e4c97abf4b435"
-metafile = true
-
-[[files]]
-file = "mods/mrcrayfishs-gun-mod.pw.toml"
-hash = "9d25723296009a6495d0d9a75ee2bfc54e62dd43ea9ee113b391c629954637e8"
+hash = "7e4132ddb8db632baac0b84a4b7ec3e88263ff51dadf813260e4be4f9d5b8bab"
 metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "c36bbd5d4f0536bc164de6d07f52df27625099b3b69057640a76efa25cab5083"
+hash = "c6dd2d83bba2c10927d484edd7290cca4deddd4e74a881209278f02d47fd8208"
 metafile = true
 
 [[files]]
-file = "mods/simple-planes.pw.toml"
-hash = "f874befe48f7ca49328f79ec108913b2b82a1ece2bc260a62c1335233412908b"
+file = "mods/simple-voice-chat.pw.toml"
+hash = "cf86920e345cfd6fec606e40a2554a0fb67ddd04ed019df3ad6fff075c99955e"
 metafile = true
 
 [[files]]
-file = "mods/watchdog-anti-cheat.pw.toml"
-hash = "4a68a4b1251d851e9dba215c2a0cfec7c76f6ba6c83dc48d826a09a3c88d6a4c"
+file = "mods/vics-point-blank.pw.toml"
+hash = "8da4ea127802f2b48b2741bb16e1c2212f850aef523b41f0b8b7036aa7858df7"
 metafile = true
-
-[[files]]
-file = "mods/waterframes.pw.toml"
-hash = "ea5b575fa62d3e86b6c3d1b80afe784c67194114d053d7891236955e4b6a1883"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "3c8df135754eec90827256c97baae5d5ea82c7945d044125664d6846f2fe1c94"
-metafile = true
-
-[[files]]
-file = "test.html"
-hash = "31999bda4b1b40287a3a30a55d7ad9faf3931a2ff35eec7cac71d42e29dae9af"

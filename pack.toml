@@ -1,13 +1,13 @@
-name = "Silvereen SMP"
-author = "Silvereen Games LLC"
+name = "Silvereensmp"
+author = "Silvereen"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3ece6c4d88065ba5409d5a7a8517214a87a1e6fc3b25bf17dfdcacfbe3a6cc00"
+hash = "0b0da0fdde7203442b286d18879b175f9750ff8db3e1aadb98875aa33a19393c"
 
 [versions]
-forge = "43.4.0"
-minecraft = "1.19.2"
+forge = "45.4.3"
+minecraft = "1.19.4"
