@@ -1,39 +1,31 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "40b410bbdd5f08f8e4ef2566409a96b7fab92589504463e334456e2e1b035aef"
-
-[[files]]
-file = "mods/ClaimChunk-1.19.4-1.0.17.jar"
-hash = "8506c6a8c69fbd086d4c3be724db812ce1931bead3f58ae367aa2f4c39b2c349"
-
-[[files]]
 file = "mods/geckolib.pw.toml"
-hash = "234cac8f8ba344cf360b56382bdeed17426b70f447821457dbe8274d687152ef"
+hash = "9dd464164f06671cd241541f28892f0a13a4c6cf5643d4d4165e3c5fb3845b35"
 metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "0579bd4b16c96222268f6783c63a9c6592f6d347f1e3a613af256d6eabcdddab"
+hash = "d2b661766f8a39e1bc56a1a83ea69032972a9742f3a987aa2374b306f6ee8a32"
 metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "192eedacb9d09fb432c572f2bb9673fbb2a6fa536c246db5483dbc4ba73fcf7a"
+hash = "7e4132ddb8db632baac0b84a4b7ec3e88263ff51dadf813260e4be4f9d5b8bab"
 metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "b72f68eeece6f04a56aa4b65a2cb7e79c81c29bb47809911470bf35edf300d56"
+hash = "c6dd2d83bba2c10927d484edd7290cca4deddd4e74a881209278f02d47fd8208"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b87cee5fc4752c04a8476d72dd34cd2006ffbd982da00e26ae213da33c90529d"
+hash = "cf86920e345cfd6fec606e40a2554a0fb67ddd04ed019df3ad6fff075c99955e"
 metafile = true
 
 [[files]]
 file = "mods/vics-point-blank.pw.toml"
-hash = "64bf79c935cd511aabfec0befc239bc9c925ec1b4f1271da94b1b537183bc834"
+hash = "8da4ea127802f2b48b2741bb16e1c2212f850aef523b41f0b8b7036aa7858df7"
 metafile = true
