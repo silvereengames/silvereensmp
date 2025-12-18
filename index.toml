@@ -1,6 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "40b410bbdd5f08f8e4ef2566409a96b7fab92589504463e334456e2e1b035aef"
+
+[[files]]
+file = "assets/background.png"
+hash = "907c043eaa170fa4c4f6c5843d167b04d8dd90d516632c1c52771a0ee3b19e26"
+
+[[files]]
+file = "assets/button-selected.png"
+hash = "7e7738103c6770be36607e77ff597007c6481e727b1e5e279ed5c298c5a6d023"
+
+[[files]]
+file = "assets/button-unselected.png"
+hash = "d9b5bd46da5ffd3e483b6548b8952f10757474d823fcc74b92fca478a7592623"
+
+[[files]]
+file = "assets/logo.png"
+hash = "94723d499a77786d57923887ea5d64474140590ce32f4878edc36e096c21b582"
+
+[[files]]
+file = "assets/patchnotes.txt"
+hash = "8742dbb9aa6f3ce7bc930fc04f287ba14927a2e3a0e93b51a404c70db634d730"
+
+[[files]]
+file = "assets/sn_transparent.png"
+hash = "5b156e1ac72f9e980d1352b99be5f3071bfb1f5d7bc6abb984092f2d676b1c0a"
+
+[[files]]
+file = "mods/ClaimChunk-1.19.4-1.0.17.jar"
+hash = "8506c6a8c69fbd086d4c3be724db812ce1931bead3f58ae367aa2f4c39b2c349"
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "8fe9131affc3479f265383362d45dc8616f7733c2543e602faa4cdaddfd90d2f"
 metafile = true

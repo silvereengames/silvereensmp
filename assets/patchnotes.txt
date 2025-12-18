@@ -1,0 +1,8 @@
+Current Version: 1.0.0
+12/18/25:
+Welcome to SSMP!
+This patch notes will be updated
+when we update the game. 
+The current menu is temporary,
+things will change around a bit
+during the first few days.
