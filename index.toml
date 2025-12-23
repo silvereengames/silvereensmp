@@ -63,6 +63,11 @@ hash = "7e4132ddb8db632baac0b84a4b7ec3e88263ff51dadf813260e4be4f9d5b8bab"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "845119d2a2885b40cbb217518df5c8db3db95c05e6b6b28493e648bc45846d8e"
+metafile = true
+
+[[files]]
 file = "mods/security-craft.pw.toml"
 hash = "c6dd2d83bba2c10927d484edd7290cca4deddd4e74a881209278f02d47fd8208"
 metafile = true
